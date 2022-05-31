@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mail009527@gmail.com**
 
-- ⚡ Have a cool project idea? **Send me over a text and let's make it happen**
+- ⚡ Have a cool project idea? **Send me over a text and let's make it happen.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
