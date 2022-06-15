@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fan Yu</h1>
 <h3 align="center">A Web developer.</h3>
 
-- 🌱 I’m currently learning **AI and Machine Learning.**
+- 🌱 I’m currently learning **Web3 and AI**
 
-- 👯 I’m looking to collaborate on **Cryptocurrency.**
+- 👯 I’m looking to collaborate on **BlockChain**
 
 - 👨‍💻 Know me at my portfolio page [https://yfexe.herokuapp.com/](https://yfexe.herokuapp.com/)
 
